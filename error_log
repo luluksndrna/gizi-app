@@ -1,0 +1,18 @@
+[13-Jan-2020 23:22:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gizw8294/public_html/koneksi.php on line 3
+[13-Jan-2020 23:22:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gizw8294/public_html/login.php on line 8
+[13-Jan-2020 23:22:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/gizw8294/public_html/login.php on line 9
+[13-Jan-2020 23:33:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gizw8294'@'localhost' (using password: NO) in /home/gizw8294/public_html/koneksi.php on line 3
+[13-Jan-2020 23:33:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gizw8294/public_html/login.php on line 8
+[13-Jan-2020 23:33:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/gizw8294/public_html/login.php on line 9
+[13-Jan-2020 23:34:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gizw8294'@'localhost' (using password: NO) in /home/gizw8294/public_html/koneksi.php on line 3
+[13-Jan-2020 23:34:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gizw8294/public_html/login.php on line 8
+[13-Jan-2020 23:34:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/gizw8294/public_html/login.php on line 9
+[13-Jan-2020 23:37:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'gizw8294_gizi'@'localhost' to database 'gizw8294_gizi' in /home/gizw8294/public_html/koneksi.php on line 3
+[13-Jan-2020 23:37:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gizw8294/public_html/login.php on line 8
+[13-Jan-2020 23:37:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/gizw8294/public_html/login.php on line 9
+[13-Jan-2020 23:39:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'gizw8294_gizi'@'localhost' to database 'gizw8294_gizi' in /home/gizw8294/public_html/koneksi.php on line 3
+[13-Jan-2020 23:39:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gizw8294/public_html/login.php on line 8
+[13-Jan-2020 23:39:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/gizw8294/public_html/login.php on line 9
+[13-Jan-2020 23:41:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'gizw8294_gizi'@'localhost' to database 'gizw8294_gizi' in /home/gizw8294/public_html/koneksi.php on line 3
+[13-Jan-2020 23:41:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/gizw8294/public_html/login.php on line 8
+[13-Jan-2020 23:41:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/gizw8294/public_html/login.php on line 9

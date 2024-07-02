@@ -1,0 +1,67 @@
+[16-Jan-2020 11:22:55 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (tanggal_lahir) at position 0 (t): The timezone could not be found in the database in /home/gizw8294/public_html/home/pasien.php:210
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(210): DateTime->__construct('tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 210
+[16-Jan-2020 11:23:12 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (tanggal_lahir) at position 0 (t): The timezone could not be found in the database in /home/gizw8294/public_html/home/pasien.php:210
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(210): DateTime->__construct('tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 210
+[16-Jan-2020 11:23:28 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (tanggal_lahir) at position 0 (t): The timezone could not be found in the database in /home/gizw8294/public_html/home/pasien.php:210
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(210): DateTime->__construct('tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 210
+[16-Jan-2020 11:23:30 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (tanggal_lahir) at position 0 (t): The timezone could not be found in the database in /home/gizw8294/public_html/home/pasien.php:210
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(210): DateTime->__construct('tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 210
+[16-Jan-2020 11:24:17 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (tanggal_lahir) at position 0 (t): The timezone could not be found in the database in /home/gizw8294/public_html/home/pasien.php:210
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(210): DateTime->__construct('tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 210
+[16-Jan-2020 11:25:31 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (tanggal_lahir) at position 0 (t): The timezone could not be found in the database in /home/gizw8294/public_html/home/pasien.php:304
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(304): DateTime->__construct('tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 304
+[16-Jan-2020 11:25:52 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (tanggal_lahir) at position 0 (t): The timezone could not be found in the database in /home/gizw8294/public_html/home/pasien.php:304
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(304): DateTime->__construct('tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 304
+[16-Jan-2020 12:02:27 Asia/Jakarta] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, null given in /home/gizw8294/public_html/home/pasien.php on line 213
+[16-Jan-2020 12:02:40 Asia/Jakarta] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, null given in /home/gizw8294/public_html/home/pasien.php on line 213
+[16-Jan-2020 12:04:24 Asia/Jakarta] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, null given in /home/gizw8294/public_html/home/pasien.php on line 214
+[16-Jan-2020 12:11:15 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string ($tanggal_lahir) at position 0 ($): Unexpected character in /home/gizw8294/public_html/home/pasien.php:32
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(32): DateTime->__construct('$tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 32
+[16-Jan-2020 12:13:45 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string ($tanggal_lahir) at position 0 ($): Unexpected character in /home/gizw8294/public_html/home/pasien.php:32
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(32): DateTime->__construct('$tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 32
+[16-Jan-2020 12:15:10 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string ($tanggal_lahir) at position 0 ($): Unexpected character in /home/gizw8294/public_html/home/pasien.php:32
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(32): DateTime->__construct('$tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 32
+[16-Jan-2020 12:24:20 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string ($tanggal_lahir) at position 0 ($): Unexpected character in /home/gizw8294/public_html/home/pasien.php:32
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(32): DateTime->__construct('$tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 32
+[16-Jan-2020 12:27:37 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string ($tanggal_lahir) at position 0 ($): Unexpected character in /home/gizw8294/public_html/home/pasien.php:32
+Stack trace:
+#0 /home/gizw8294/public_html/home/pasien.php(32): DateTime->__construct('$tanggal_lahir')
+#1 {main}
+  thrown in /home/gizw8294/public_html/home/pasien.php on line 32
+[16-Jan-2020 12:42:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gizw8294/public_html/home/pasien.php:7) in /home/gizw8294/public_html/home/pasien.php on line 79
+[16-Jan-2020 13:25:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gizw8294/public_html/home/pasien.php:7) in /home/gizw8294/public_html/home/pasien.php on line 79
+[16-Jan-2020 16:24:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gizw8294/public_html/home/pasien.php:7) in /home/gizw8294/public_html/home/pasien.php on line 79
+[28-Jan-2020 14:09:20 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gizw8294/public_html/home/pasien.php:7) in /home/gizw8294/public_html/home/pasien.php on line 79

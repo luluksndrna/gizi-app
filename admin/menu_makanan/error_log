@@ -1,0 +1,2 @@
+[15-Jan-2020 01:33:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gizw8294/public_html/admin/menu_makanan/functions.php on line 10
+[21-Jan-2020 12:28:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gizw8294/public_html/admin/menu_makanan/functions.php on line 10
